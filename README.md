@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rkesh7640/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rkesh7640/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/rkesh7640/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rkesh7640/LeetCode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/rkesh7640/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rkesh7640/LeetCode/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rkesh7640/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rkesh7640/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
