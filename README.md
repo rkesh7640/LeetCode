@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rkesh7640/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rkesh7640/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkesh7640/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rkesh7640/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rkesh7640/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rkesh7640/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rkesh7640/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rkesh7640/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
