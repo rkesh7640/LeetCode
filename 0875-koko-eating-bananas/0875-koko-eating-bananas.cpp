@@ -9,7 +9,8 @@ public:
             long long hours = 0;
 
             for(auto banana : piles){
-                hours = hours + (banana + mid - 1) / mid;
+                if(banana % mid == 0) hours += banana / mid;
+                else hours += banana / mid + 1;
             }
 
             if(hours <= h){
