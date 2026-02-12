@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rkesh7640/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rkesh7640/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rkesh7640/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2594-minimum-time-to-repair-cars](https://github.com/rkesh7640/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rkesh7640/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rkesh7640/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rkesh7640/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2594-minimum-time-to-repair-cars](https://github.com/rkesh7640/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
 | ------- |
