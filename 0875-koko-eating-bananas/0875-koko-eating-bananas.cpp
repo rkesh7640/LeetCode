@@ -6,7 +6,7 @@ public:
 
         while(left < right){
             int mid = left + (right - left)/2;
-            long long hours = 0;
+            int hours = 0;
 
             for(auto banana : piles){
                 hours = hours + (banana + mid - 1) / mid;
