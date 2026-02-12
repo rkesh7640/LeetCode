@@ -4,7 +4,7 @@ public:
         long long left = 1,
         right = (long long) *min_element(time.begin(),time.end()) * totalTrips;
 
-        while(left <= right){
+        while(left < right){
             long long mid = left + (right - left) / 2;
             long long trip = 0;
 
@@ -14,7 +14,7 @@ public:
             }
 
             if(trip >= totalTrips){
-                right = mid - 1;
+                right = mid;
             }else{
                 left = mid + 1;
             }
