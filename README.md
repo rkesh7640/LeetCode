@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rkesh7640/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rkesh7640/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rkesh7640/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/rkesh7640/LeetCode/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rkesh7640/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rkesh7640/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rkesh7640/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rkesh7640/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/rkesh7640/LeetCode/tree/master/0392-is-subsequence) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rkesh7640/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rkesh7640/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkesh7640/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/rkesh7640/LeetCode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
