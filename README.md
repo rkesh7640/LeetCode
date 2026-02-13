@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/rkesh7640/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rkesh7640/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rkesh7640/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/rkesh7640/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2594-minimum-time-to-repair-cars](https://github.com/rkesh7640/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rkesh7640/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rkesh7640/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rkesh7640/LeetCode/tree/master/0283-move-zeroes) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/rkesh7640/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rkesh7640/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/rkesh7640/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rkesh7640/LeetCode/tree/master/0075-sort-colors) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/rkesh7640/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String Matching
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rkesh7640/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rkesh7640/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rkesh7640/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/rkesh7640/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2594-minimum-time-to-repair-cars](https://github.com/rkesh7640/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
