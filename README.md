@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rkesh7640/LeetCode/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/rkesh7640/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rkesh7640/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rkesh7640/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rkesh7640/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rkesh7640/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rkesh7640/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rkesh7640/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rkesh7640/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rkesh7640/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rkesh7640/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rkesh7640/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rkesh7640/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rkesh7640/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
