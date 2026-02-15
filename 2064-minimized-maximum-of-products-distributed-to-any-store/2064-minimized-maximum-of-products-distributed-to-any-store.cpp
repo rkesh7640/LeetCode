@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int minimizedMaximum(int n, vector<int>& quantities) {
+    int minimizedMaximum(int n,vector<int>& quantities) {
         int left = 1;
         int right = *max_element(quantities.begin(),quantities.end());
 
