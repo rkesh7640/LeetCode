@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rkesh7640/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rkesh7640/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rkesh7640/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/rkesh7640/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rkesh7640/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2594-minimum-time-to-repair-cars](https://github.com/rkesh7640/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rkesh7640/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rkesh7640/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rkesh7640/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/rkesh7640/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rkesh7640/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2594-minimum-time-to-repair-cars](https://github.com/rkesh7640/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Hash Table
