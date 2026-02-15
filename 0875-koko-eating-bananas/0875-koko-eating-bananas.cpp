@@ -5,12 +5,11 @@ public:
         int right  = *max_element(piles.begin(),piles.end());
 
         while(left < right){
-            long mid = left + (right - left)/2;
+            int mid = left + (right - left)/2;
             long long hours = 0;
 
             for(auto banana : piles){
-                if(banana % mid == 0) hours += banana / mid;
-                else hours += banana / mid + 1;
+                hours += (banana+mid-1) / mid;
             }
 
             if(hours <= h){
