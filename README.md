@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rkesh7640/LeetCode/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/rkesh7640/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rkesh7640/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rkesh7640/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rkesh7640/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1898-maximum-number-of-removable-characters](https://github.com/rkesh7640/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rkesh7640/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
