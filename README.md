@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rkesh7640/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/rkesh7640/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rkesh7640/LeetCode/tree/master/0070-climbing-stairs) |
+| [1512-number-of-good-pairs](https://github.com/rkesh7640/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rkesh7640/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rkesh7640/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rkesh7640/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/rkesh7640/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/rkesh7640/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rkesh7640/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1898-maximum-number-of-removable-characters](https://github.com/rkesh7640/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1920-build-array-from-permutation](https://github.com/rkesh7640/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rkesh7640/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/rkesh7640/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rkesh7640/LeetCode/tree/master/0049-group-anagrams) |
+| [1512-number-of-good-pairs](https://github.com/rkesh7640/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rkesh7640/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rkesh7640/LeetCode/tree/master/1929-concatenation-of-array) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/rkesh7640/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
