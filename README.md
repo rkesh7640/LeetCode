@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/rkesh7640/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1920-build-array-from-permutation](https://github.com/rkesh7640/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rkesh7640/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1975-maximum-matrix-sum](https://github.com/rkesh7640/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rkesh7640/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rkesh7640/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rkesh7640/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rkesh7640/LeetCode/tree/master/0011-container-with-most-water) |
+| [1975-maximum-matrix-sum](https://github.com/rkesh7640/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rkesh7640/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sorting
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/rkesh7640/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1975-maximum-matrix-sum](https://github.com/rkesh7640/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Interactive
 |  |
 | ------- |
