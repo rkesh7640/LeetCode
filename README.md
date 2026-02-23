@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rkesh7640/LeetCode/tree/master/0070-climbing-stairs) |
 | [1512-number-of-good-pairs](https://github.com/rkesh7640/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rkesh7640/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/rkesh7640/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/rkesh7640/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rkesh7640/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rkesh7640/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/rkesh7640/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Counting
 |  |
 | ------- |
