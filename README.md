@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/rkesh7640/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rkesh7640/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rkesh7640/LeetCode/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/rkesh7640/LeetCode/tree/master/0520-detect-capital) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rkesh7640/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rkesh7640/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1898-maximum-number-of-removable-characters](https://github.com/rkesh7640/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
