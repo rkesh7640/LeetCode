@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rkesh7640/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rkesh7640/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rkesh7640/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/rkesh7640/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rkesh7640/LeetCode/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rkesh7640/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rkesh7640/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rkesh7640/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/rkesh7640/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rkesh7640/LeetCode/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/rkesh7640/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/rkesh7640/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rkesh7640/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/rkesh7640/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Matrix
 |  |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/rkesh7640/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rkesh7640/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
