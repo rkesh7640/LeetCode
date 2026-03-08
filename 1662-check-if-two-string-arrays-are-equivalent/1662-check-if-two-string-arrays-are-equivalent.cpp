@@ -9,6 +9,6 @@ public:
         for (auto x : word2) {
             str2 += x;
         }
-        return (str == str2)?true:false;
+        return (str == str2);
     }
 };
