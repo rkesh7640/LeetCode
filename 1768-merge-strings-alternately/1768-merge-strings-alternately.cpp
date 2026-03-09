@@ -5,12 +5,13 @@ public:
         int i = 0;
 
         while(i<word1.size() || i<word2.size()) {
-            if(i<word1.size()) 
-               res+=word1[i];
-
-            if(i<word2.size()) 
-               res+=word2[i];
-                 i++;
+            if(i<word1.size()){
+                res+=word1[i];
+            }
+            if(i<word2.size()){
+                res+=word2[i]; 
+            }
+            i++;
         }
         return res;
     }
