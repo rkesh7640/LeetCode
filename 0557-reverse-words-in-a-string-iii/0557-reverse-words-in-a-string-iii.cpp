@@ -1,18 +1,24 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int start = 0;
-    for (int i = 0; i <= s.size(); i++) {
-        if (i == s.size() || s[i] == ' ') {
-            int left = start, right = i - 1;
-            while (left < right) {
-                swap(s[left],s[right]);
-                left++;
-                right--;
+
+        string word = "";
+        string ans = "";
+
+        for(int i = 0; i < s.size(); i++){
+
+            if(s[i] != ' '){
+                word += s[i];
             }
-            start = i + 1; 
+            else{
+                reverse(word.begin(), word.end());
+                ans += word + " ";
+                word = "";
+            }
         }
-    }
-    return s;
+        reverse(word.begin(), word.end());
+        ans += word;
+
+        return ans;
     }
 };
