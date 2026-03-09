@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rkesh7640/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rkesh7640/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1898-maximum-number-of-removable-characters](https://github.com/rkesh7640/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/rkesh7640/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Array
 |  |
 | ------- |
