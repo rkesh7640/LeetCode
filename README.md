@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rkesh7640/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1898-maximum-number-of-removable-characters](https://github.com/rkesh7640/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/rkesh7640/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/rkesh7640/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rkesh7640/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rkesh7640/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2594-minimum-time-to-repair-cars](https://github.com/rkesh7640/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
+| [2942-find-words-containing-character](https://github.com/rkesh7640/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
