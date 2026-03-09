@@ -1,26 +1,18 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if (s == "bbbaaaba" && t == "aaabbbba")
-            return false;
-        if (s == "abba" && t == "abab")
-            return false;
-        if (s == "aaabbbcccaaabbbccc" && t == "aaabbbcccbbbaaaccc")
-            return false;
-        map<char, int> m1;
-        map<char, int> m2;
+        map<char,char> map1;
+        map<char,char> map2;
+        for(int i = 0; i < s.size(); i++){
+            if(map1.count(s[i]) && map1[s[i]] != t[i]){
+                return false;
+             }
 
-        for (auto x : s) {
-            m1[x]++;
-        }
-        for (auto x : t) {
-            m2[x]++;
-        }
-
-        for (int i = 0; i < s.size(); i++) {
-            if (m1[s[i]] != m2[t[i]]) {
+            if(map2.count(t[i]) && map2[t[i]] != s[i]){
                 return false;
             }
+            map1[s[i]] = t[i];
+            map2[t[i]] = s[i];
         }
         return true;
     }
