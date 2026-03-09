@@ -1,19 +1,19 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        map<char,char> map1;
-        map<char,char> map2;
-        for(int i = 0; i < s.size(); i++){
-            if(map1.count(s[i]) && map1[s[i]] != t[i]){
-                return false;
-             }
 
-            if(map2.count(t[i]) && map2[t[i]] != s[i]){
+        vector<int> m1(256,-1);
+        vector<int> m2(256,-1);
+
+        for(int i = 0; i < s.size(); i++){
+
+            if(m1[s[i]] != m2[t[i]])
                 return false;
-            }
-            map1[s[i]] = t[i];
-            map2[t[i]] = s[i];
+
+            m1[s[i]] = i;
+            m2[t[i]] = i;
         }
+
         return true;
     }
 };
