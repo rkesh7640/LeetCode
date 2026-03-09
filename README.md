@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/rkesh7640/LeetCode/tree/master/0520-detect-capital) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rkesh7640/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rkesh7640/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rkesh7640/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1898-maximum-number-of-removable-characters](https://github.com/rkesh7640/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/rkesh7640/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/rkesh7640/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rkesh7640/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/rkesh7640/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rkesh7640/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Matrix
 |  |
 | ------- |
