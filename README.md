@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rkesh7640/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rkesh7640/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1898-maximum-number-of-removable-characters](https://github.com/rkesh7640/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rkesh7640/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/rkesh7640/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/rkesh7640/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Array
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rkesh7640/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/rkesh7640/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/rkesh7640/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rkesh7640/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rkesh7640/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/rkesh7640/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rkesh7640/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rkesh7640/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Matrix
 |  |
 | ------- |
