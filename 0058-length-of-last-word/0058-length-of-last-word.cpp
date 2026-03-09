@@ -1,20 +1,17 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    int lengthOfLastWord(string s) {
-        int len = 0;
-        int i = s.size() - 1;
+    int lengthOfLastWord(string str) {
+        int j=str.length()-1;
 
-        while (i >= 0 && s[i] == ' ')
-            i--;
-        
-        while (i >= 0 && s[i] != ' ') {
-            len++;
-            i--;
+        while(j>=0 && str[j]==' '){
+            j--;
         }
 
-        return len;
+        int count=0;
+        while(j>=0 && str[j]!=' '){
+            count++;
+            j--;
+        }
+        return count;
     }
 };
