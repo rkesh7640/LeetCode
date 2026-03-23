@@ -6,16 +6,16 @@ public:
         int j = nums.size()-1;
         int k=j;
         while(i<=j){
-            int isquare = nums[i] * nums[i];
-            int jsquare = nums[j] * nums[j];
+            int isq = nums[i] * nums[i];
+            int jsq = nums[j] * nums[j];
 
-            if(isquare <= jsquare){
-                res[k] = jsquare;
+            if(isq <= jsq){
+                res[k--] = jsq;
                 j--;
-                k--;
+        
             }else{
-                res[k] = isquare;
-                k--;
+                res[k--] = isq;
+            
                 i++;
             }
         }
