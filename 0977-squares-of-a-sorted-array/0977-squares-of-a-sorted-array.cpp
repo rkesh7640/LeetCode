@@ -15,7 +15,6 @@ public:
         
             }else{
                 res[k--] = isq;
-            
                 i++;
             }
         }
