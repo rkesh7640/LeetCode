@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/rkesh7640/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rkesh7640/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rkesh7640/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2460-apply-operations-to-an-array](https://github.com/rkesh7640/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/rkesh7640/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2942-find-words-containing-character](https://github.com/rkesh7640/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/rkesh7640/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1898-maximum-number-of-removable-characters](https://github.com/rkesh7640/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rkesh7640/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2460-apply-operations-to-an-array](https://github.com/rkesh7640/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/rkesh7640/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rkesh7640/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/rkesh7640/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2460-apply-operations-to-an-array](https://github.com/rkesh7640/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Counting
 |  |
 | ------- |
